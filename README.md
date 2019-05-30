@@ -9,10 +9,10 @@ There are 4 objects from the [YCB object set](http://www.ycbbenchmarks.com/): a 
 
 ### Robotic setup
 
-<img src="grasping.jpeg" width="400">
+<img src="grasping.jpeg" width="500">
 
 ### Objects
 
-<img src="cheezit.png" width="330"> <img src="sugar.png" width="400">
+<img src="cheezit.png" width="260"> <img src="sugar.png" width="290">
 
-<img src="coffee.png" width="400"> <img src="pringles.png" width="330">
+<img src="coffee.png" width="300"> <img src="pringles.png" width="250">
