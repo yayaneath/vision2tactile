@@ -13,6 +13,6 @@ There are 4 objects from the [YCB object set](http://www.ycbbenchmarks.com/): a 
 
 ### Objects
 
-<img src="cheezit.png" width="400"> <img src="sugar.png" width="400">
+<img src="cheezit.png" width="300"> <img src="sugar.png" width="400">
 
-<img src="coffee.png" width="400"> <img src="pringles.png" width="400">
+<img src="coffee.png" width="400"> <img src="pringles.png" width="300">
