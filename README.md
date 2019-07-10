@@ -16,3 +16,13 @@ There are 4 objects from the [YCB object set](http://www.ycbbenchmarks.com/): a 
 <img src="cheezit.png" width="260"> <img src="sugar.png" width="290">
 
 <img src="coffee.png" width="300"> <img src="pringles.png" width="250">
+
+# Citation
+```
+@INPROCEEDINGS{vision2tactile,
+  author = {Zapata-impata, Brayan S. and Gil, Pablo and Torres, Fernando},
+  conference = {Robotics: Science and Systems (RSS 2019). Workshop on Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation},
+  title = {{vision2tactile: Feeling Touch by Sight}},
+  url = {https://sim2real.github.io/assets/papers/zapata.pdf},
+  year = {2019}
+}
