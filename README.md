@@ -14,7 +14,7 @@ There are 9 objects from the [YCB object set](http://www.ycbbenchmarks.com/) plu
 
 ### Objects
 
-<img src="objects.pdf">
+<img src="objects.png" width="600">
 
 # Citation
 ```
